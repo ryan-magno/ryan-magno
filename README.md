@@ -1,5 +1,3 @@
-![Header Image](https://via.placeholder.com/1500x500.png?text=Data+Engineer+in+the+Making)
-
 <h1 align="center">Hi 👋, I'm [Ryan Gabriel Magno]</h1>
 <h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases</h3>
 
