@@ -63,6 +63,8 @@ I am a data enthusiast passionate about unlocking insights from data to drive bu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-magno&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
 ### 📫 How to Reach Me
 
 Feel free to reach out to me for collaborations, questions, or just for a chat!
