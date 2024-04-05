@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ryan Gabriel Magno</h1>
 <h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases</h3>
 
+---
+
 <h2>Languages and Tools</h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
