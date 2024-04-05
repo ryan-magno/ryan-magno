@@ -29,8 +29,8 @@ I am a data enthusiast passionate about unlocking insights from data to drive bu
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-magno&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-magno&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-magno&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-magno&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 📫 How to Reach Me
