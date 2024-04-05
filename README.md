@@ -1,11 +1,11 @@
-
-<h1 align="center">Hi 👋, I'm </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=10000&random=false&width=435&lines=Ryan+Gabriel+Magno)](https://git.io/typing-svg)
-<h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases<
+<h1 align="center">Hi 👋, I'm Ryan Gabriel Magno</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=10000&random=false&width=435&lines=An+Aspiring+Data+Engineer+Passionate+about+Python%2C+Cloud+Technologies%2C+and+Databases" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ryangabrielmagno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/ryangabrielmagno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
 
 ---
@@ -32,8 +32,8 @@ I am a data enthusiast passionate about unlocking insights from data to drive bu
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-magno&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-magno&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📫 How to Reach Me
@@ -42,7 +42,7 @@ Feel free to reach out to me for collaborations, questions, or just for a chat!
 
 - Email: [gabrielmagno.ryan@gmail.com](mailto:gabrielmagno.ryan@gmail.com)
 - LinkedIn: [Ryan Gabriel Magno](https://www.linkedin.com/in/ryangabrielmagno)
+
 ---
 
-⭐️ From [ryan-magno]([https://github.com/YourGitHubUsername](https://github.com/ryan-magno))
-
+⭐️ From [ryan-magno](https://github.com/ryan-magno)
