@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ryan Gabriel Magno</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=10000&random=false&width=435&lines=Ryan+Gabriel+Magno)](https://git.io/typing-svg)
 <h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases</h3>
 
 <p align="center">
