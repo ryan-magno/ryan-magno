@@ -54,6 +54,8 @@ I am a data enthusiast passionate about unlocking insights from data to drive bu
 - Databases: **PostgreSQL**
 - Tools: **Git, Jupyter Notebooks**
 
+---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
