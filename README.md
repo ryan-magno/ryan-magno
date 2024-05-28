@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Gabriel Magno</h1>
+<h1 align="center">Hi! 👋 I'm Ryan Gabriel Magno</h1>
 <h3 align="center">An Aspiring Data Engineer with a Passion for Python, Cloud Technologies, and Databases</h3>
 
 ---
